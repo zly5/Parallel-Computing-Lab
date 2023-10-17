@@ -1,4 +1,7 @@
 # OpenMP-and-PThread_Matrix-Multiplication
+
+Continuously updated, covering multi-threaded computing, parallel computing.........
+
 Multithreaded matrix multiplication and analysis based on OpenMP and PThread
 
 OpenMP-simple_instances.c is a simple OpenMP example
