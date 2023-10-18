@@ -1,7 +1,9 @@
-# multi-threaded & parallel computing
+# multi-thread & parallel computing
 
 
-This is a compilation of experiments on parallel computing, including Pthread, OpenMP, CUDA, HIP, OpenCL, and DPC++. Continuously updated, covering multi-threaded computing, parallel computing.........
+This is a compilation of experiments on multi-thread computing, parallel computing and a small project on parallel programming language implementations, including Pthread, OpenMP, CUDA, HIP, OpenCL and DPC++.
+
+It is constantly being updated at ..........
 
 
 ## OpenMP
