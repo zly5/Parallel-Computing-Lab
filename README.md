@@ -1,8 +1,10 @@
-# OpenMP-and-PThread_Matrix-Multiplication
+# multi-threaded & parallel computing
 
-Continuously updated, covering multi-threaded computing, parallel computing.........
 
-Multithreaded matrix multiplication and analysis based on OpenMP and PThread
+This is a compilation of experiments on parallel computing, including Pthread, OpenMP, CUDA, HIP, OpenCL, and DPC++. Continuously updated, covering multi-threaded computing, parallel computing.........
+
+
+## OpenMP
 
 OpenMP-simple_instances.c is a simple OpenMP example
 
@@ -10,11 +12,42 @@ OpenMP-Matrix_Vector_Multiplication.c is an OpenMP example of vector and matrix 
 
 OpenMP-matrix_multiplication.c is an OpenMP example of matrix multiplication.
 
-Pthread-simple_instances.c is a simple PThread example
+For specific instructions, see
+https://blog.csdn.net/qq_46009046/article/details/133587081
+
+## PThread
+
+PThread-simple_instances.c is a simple PThread example
 
 PThread-synchronization.c is a synchronized PThread example
 
-Pthread-matrix_multiplication.c is a matrix multiplication PThread example
+PThread-matrix_multiplication.c is a matrix multiplication PThread example
 
 For specific instructions, see
 https://blog.csdn.net/qq_46009046/article/details/133587081
+
+## CUDA
+
+cu_vectorAdd.cu is a simple vector addition CUDA example
+
+managed_cu_Matrixmultiplication.cu is a matrix multiplication implemented using the CDUA unified shared memory
+
+For specific instructions, see
+https://blog.csdn.net/qq_46009046/article/details/133753993
+https://blog.csdn.net/qq_46009046/article/details/133797554
+
+## OpenCL
+
+OpenCL_Mixer.c OpenCL_Mixer.c is a matrix multiplication implementation using OpenCL.
+
+a.cl a.cl is a kernel function for OpenCL matrix multiplication
+
+For specific instructions, see
+https://blog.csdn.net/qq_46009046/article/details/133777178
+
+## HIP
+
+hip_vectorAdd.cpp is a simple vector addition HIP example
+
+For specific instructions, see
+https://blog.csdn.net/qq_46009046/article/details/133583217
