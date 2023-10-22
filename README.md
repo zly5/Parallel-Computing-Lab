@@ -40,6 +40,8 @@ https://blog.csdn.net/qq_46009046/article/details/133797554
 
 ## OpenCL
 
+OpenCL_vectorAdd.c is a simple vector addition OpenCL example
+
 OpenCL_Mixer.c OpenCL_Mixer.c is a matrix multiplication implementation using OpenCL.
 
 a.cl a.cl is a kernel function for OpenCL matrix multiplication
@@ -53,3 +55,10 @@ hip_vectorAdd.cpp is a simple vector addition HIP example
 
 For specific instructions, see
 https://blog.csdn.net/qq_46009046/article/details/133583217
+
+## DPC++
+
+dpcpp_vectorAdd.cpp is a simple vector addition DPC++ example
+
+For specific instructions, see
+https://blog.csdn.net/qq_46009046/article/details/123306679
