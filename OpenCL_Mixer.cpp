@@ -1,5 +1,5 @@
 
-#include <CL/OpenCL.h>
+#include <CL/cl.h>
 #include <iostream>
 #include <fstream>
 #include <sstream>
