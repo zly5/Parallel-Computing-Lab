@@ -34,9 +34,12 @@ cu_vectorAdd.cu is a simple vector addition CUDA example
 
 managed_cu_Matrixmultiplication.cu is a matrix multiplication implemented using the CDUA unified shared memory
 
+Transformer_Encoder.cu is a CUDA-based implementation of the Transformer Encoder Example 
+
 For specific instructions, see
 https://blog.csdn.net/qq_46009046/article/details/133753993
 https://blog.csdn.net/qq_46009046/article/details/133797554
+https://blog.csdn.net/qq_46009046/article/details/134020656
 
 ## OpenCL
 
@@ -59,6 +62,10 @@ https://blog.csdn.net/qq_46009046/article/details/133583217
 ## DPC++
 
 dpcpp_vectorAdd.cpp is a simple vector addition DPC++ example
+
+dpcpp_templatematching.cpp is a template matching DPC++ example
+
+dpcpp_sobel.cpp is a sobel filter DPC++ example.
 
 For specific instructions, see
 https://blog.csdn.net/qq_46009046/article/details/123306679
