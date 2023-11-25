@@ -3,7 +3,6 @@
 
 This is a compilation of experiments on multi-thread computing, parallel computing and a small project on parallel programming language implementations, including Pthread, OpenMP, CUDA, HIP, OpenCL and DPC++.
 
-It is constantly being updated at ..........
 
 
 ## OpenMP
